@@ -28,8 +28,8 @@ Ensure you have the following installed before proceeding:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Data-Science-and-Analytics-Club/RAG-with-VectorDatabase-Event.git
+cd RAG-with-VectorDatabase-Event
 pip install -r requirements.txt
 ```
 
