@@ -105,8 +105,6 @@ db.save_local(DB_PATH)
 
 Next, we will cover how to **load an LLM and retrieve relevant document chunks for answering user queries!** 🎯
 
-# README
-
 ## Overview
 
 This project implements a retrieval-augmented generation (RAG) system using `LangChain` and `HuggingFace`. It leverages a FAISS vector store for efficient document retrieval and a Hugging Face hosted model (`Mistral-7B-Instruct-v0.3`) for generating responses. The pipeline follows these key steps:
