@@ -2,6 +2,7 @@
 CONTEXT/
 env/
 vectorstore/
-context.py
-loading.py
+
 main2.py
+RAG-with-VectorDatabase-Event/
+.env
